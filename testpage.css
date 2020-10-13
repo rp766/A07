@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    font-size: 100%;
+    width: 300px;
+    padding: 3em;
+    border: 5px solid black;
+    margin: 0 auto;
+}
